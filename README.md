@@ -70,3 +70,4 @@ The dashboard uses a custom color palette:
 
 Data Analyst | Excel | Data Visualization | VBA
 
+![Project Progress Dashboard](Dashboard%20Preview.png)
